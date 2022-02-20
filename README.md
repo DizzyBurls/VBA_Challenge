@@ -3,12 +3,12 @@
     Homework Task 2
     Writen by Chris Burley
 
-#Name of Project:
+# Name of Project:
 
     Share Market Analysis Tool.
     Module name: ShareMarket_CJB
 
-#Description:
+# Description:
 
     In this project I have created a module that can, for each YEAR of share market data:
 
@@ -70,9 +70,25 @@
     
     (7) The module you have imported should now appear on your module list for the VBA project in question.
     
-#Usage
+# Usage
 
     This module is designed to be run when the active worksheet is the FIRST in the workbook.
     
     If, for example, your data set contains worksheets of stock market data from 2018 then 2019 and finally from 2020 then it is important that you click somewhere on the  2018 sheet before running the module.
+    
+# Support
+
+    For any support with this module, please contact me at chrisjburley@gmail.com
+    I would be more than happy to help.
+
+# Contributions
+
+    As this is a piece of work that is going to be assessed, i think that it would be wise for me to suggest that contributions NOT be made to this module.
+
+# Authors and Acknowledgments
+
+    Author - Chris Burley (CJB)
+
+    I would like to thank Yang from the #ASkBCS for spotting an error in my "for ws in worksheets" loop.
+    I would also like to acknowledge Akash for suggesting that I change some of my variables from Long to Double. I was experiencing overflow errors.
 
