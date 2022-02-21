@@ -14,7 +14,7 @@
 
     (a) Identify the opening price (on Jan 1) of each individual share and its closing prices (on Dec 31) 
     
-    ![image](https://user-images.githubusercontent.com/98304246/154824379-b409ef35-73bc-4978-8f6c-39bc6dd06c8b.png)
+    (https://github.com/DizzyBurls/VBA_Challenge/blob/main/Picture1.jpg?raw=true)
 
 
     (b) Determine whether the prices of individual shares have increase or decreased between Jan 1 and Dec 31st.
