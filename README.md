@@ -14,7 +14,7 @@
 
     (a) Identify the opening price (on Jan 1) of each individual share and its closing prices (on Dec 31) 
     
-    https://github.com/DizzyBurls/VBA_Challenge/blob/main/Picture_1.jpeg
+    See Picture_1.jpeg
 
 
     (b) Determine whether the prices of individual shares have increase or decreased between Jan 1 and Dec 31st.
@@ -28,18 +28,18 @@
     
     (e) Determine the number of days each share was traded.
     
-    ![image](https://user-images.githubusercontent.com/98304246/154824408-fc6912dc-35e2-4aa4-a708-4fe92fda674b.png)
+    See Picture_2.jpeg
     
     (f) Determine the number of different share names that were traded.
     
-    ![image](https://user-images.githubusercontent.com/98304246/154824420-e5c296c3-ceb3-4977-a519-8863407a2e6c.png)
+    See Picture_3.jpeg
 
     
     (g) Identify the share which demonstrated the largest % increase.
         Identify the share which demonstrated the largest % decrease.
         Identify the share which had the largest share volume.
         
-    ![image](https://user-images.githubusercontent.com/98304246/154824423-b06c91b4-6de1-4f2f-a46b-1aa1a314997c.png)
+    See Picture_4.jpeg
 
     In addition to this, the module is also capable of determining:
        
@@ -50,7 +50,7 @@
         
     (c) The share which had the largest share volume over the ENTIRE duration that data was collected.
     
-    ![image](https://user-images.githubusercontent.com/98304246/154824498-0e1a72df-87e0-4940-ae8e-3a161a48e76a.png)
+    Again, see Picture_1.jpeg
 
 # Installation
 
