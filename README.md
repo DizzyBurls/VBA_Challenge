@@ -51,6 +51,8 @@
     (c) The share which had the largest share volume over the ENTIRE duration that data was collected.
     
     Again, see Picture_1.jpeg
+    
+    I have included a Word document with Screen Shots of the Multiple Year Stock Data spreadsheet once the module has been run. These shots are DIFFERENT to those I have refered to so far in this document.
 
 # Installation
 
